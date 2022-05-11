@@ -1,0 +1,146 @@
+body{
+    margin:auto;
+}
+
+#elements{
+    border: 1px solid black;
+    width:100%;
+    height:15%;
+    background-color: #333333;
+}
+
+#contact{
+    border:1px solid black;
+    height:35%;
+    width:10%;
+    margin-left: 80%;
+    margin-top:1.5%;
+    cursor: pointer;
+    background-color: blueviolet;
+}
+#con{
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5%;
+    color: black;
+}
+
+#list{
+    list-style: none;
+    margin:0;
+    padding: 0;
+    
+}
+li{
+    float: left;
+    color: white;
+    cursor: pointer;
+    margin:2%;
+    font-size: 20px;
+    
+}
+
+#ul{
+   
+    height:40%;
+    width:30%;
+    margin-left:35%;
+    margin-top: -2%;
+    overflow: hidden;
+}
+
+#logo{
+    
+    height:58.5px;
+    width:60px;
+    margin-top:-1%;
+    margin-left:5%;
+    border-radius: 30px;
+
+}
+
+.image{
+    height:60px;
+    width:60px;
+    margin-top:-75%;
+    border-radius: 30px;
+
+}
+
+#creative{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top:-5%;
+    color: white;
+    
+    
+}
+
+#design{
+    
+    height:50%;
+    width:10%;
+    margin-left: 10%;
+    margin-top:-5%;
+}
+
+#big{
+    border:1px solid black;
+    width:100%;
+    height:100%;
+    background-image:url("book-1421097_1920.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#box1{
+    
+    position: absolute;
+    height: 50%;
+    width:40%;
+    margin-top:5%;
+    margin-left: 8%;
+}
+
+#name{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+#fullstack{
+    font-size: 60px;
+    font-weight: bold;
+    color:white;
+    
+}
+
+#developer{
+    font-size: 50px;
+    color:white;
+    font-weight: bold;
+}
+
+#lorem{
+    font-size:20px;
+    font-weight:bold;
+    color:beige;
+}
+
+#download{
+    border:1px solid black;
+    height:7%;
+    width:13%;
+    margin-top: 29%;
+    margin-left:8%;
+    border-color: blueviolet;
+}
+
+#cv{
+    font-size:18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5%;
+    color:black;
+}
